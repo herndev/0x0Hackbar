@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/herndev/0x0Hackbar/refs/heads/master/assets/img/logo.png" width="100">
 
-*Penetration testing tool*
+*Penetration Testing Tool*
 
 [![Platform](https://img.shields.io/badge/platform-android-lightgrey)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
@@ -23,10 +23,14 @@
 ## Screenshots 📸
 | Screen 1 | Screen 2 | Screen 3 |
 |----------|----------|----------|
-| <img src="screenshots/screen1.png" width="200"> | <img src="screenshots/screen2.png" width="200"> | <img src="screenshots/screen3.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/herndev/0x0Hackbar/refs/heads/master/assets/img/screenshots/screen1.png" width="200"> | <img src="https://raw.githubusercontent.com/herndev/0x0Hackbar/refs/heads/master/assets/img/screenshots/screen2.png" width="200"> | <img src="https://raw.githubusercontent.com/herndev/0x0Hackbar/refs/heads/master/assets/img/screenshots/screen3.png" width="200"> |
 
 ## Installation ⚙️
 ### Android
 1. Download the APK from [releases](#)
 2. Enable "Install from unknown sources"
 3. Install and launch the app
+
+<br>
+
+<img src="https://img.shields.io/badge/CODE-BY_HERNDEV-2ea44f?style=for-the-badge&logo=github" alt="HERNDEV">
