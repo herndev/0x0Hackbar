@@ -27,7 +27,7 @@
 
 ## Installation ⚙️
 ### Android
-1. Download the APK from [releases](#)
+1. Download the APK from [releases](https://github.com/herndev/0x0Hackbar/releases/tag/v1.0.3)
 2. Enable "Install from unknown sources"
 3. Install and launch the app
 
