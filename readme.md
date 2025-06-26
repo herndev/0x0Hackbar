@@ -6,7 +6,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-android-lightgrey)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
-[![Version](https://img.shields.io/badge/version-1.0.5-green)]()
+[![Version](https://img.shields.io/badge/version-1.0.6-green)]()
 
 ## Table of Contents
 - [Features](#features-)
@@ -28,7 +28,7 @@
 
 ## Installation ⚙️
 ### Android
-1. Download the APK from [releases](https://github.com/herndev/0x0Hackbar/releases/tag/v1.0.5)
+1. Download the APK from [releases](https://github.com/herndev/0x0Hackbar/releases)
 2. Enable "Install from unknown sources"
 3. Install and launch the app
 
